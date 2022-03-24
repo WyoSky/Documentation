@@ -3,7 +3,7 @@ WyoSky is the Economic Engine for the Emerging Web3 Space Industry
 
 ## Governance
 - https://github.com/WyoSky/Documentation/tree/main/Governance
-- 
+
 ## Developments
 The following organizations are being developed by WyoSky
 
