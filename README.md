@@ -12,3 +12,6 @@ The following organizations are being developed by WyoSky
 
 ### SpaceAfrica DAO
 - https://github.com/SpaceAfrica/
+
+### Formicary DAO
+- https://github.com/FormicaryDAO
